@@ -1,0 +1,3 @@
+{
+  "extends": "@taxdown/eslint-config/back/module"
+}
